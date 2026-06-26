@@ -1,0 +1,9 @@
+
+# build / runtime artifacts (cleanup 2026-06-26)
+.DS_Store
+**/.DS_Store
+/var/
+/dist/
+/assets/
+backend/var/
+frontend/var
